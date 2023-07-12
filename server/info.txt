@@ -1,0 +1,12 @@
+auth -> signup / login
+config -> database related configutaions
+
+    //fetch data from request // router
+    // validation // controllers
+    //store in database // model
+
+    simplify code as much as you can
+
+    validation // database validation
+                // server side validation       
+                // client side validation
